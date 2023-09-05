@@ -39,3 +39,13 @@ button.three.one {
 button.three.two {
     background-color: yellow;
 }
+
+img.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+img.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
