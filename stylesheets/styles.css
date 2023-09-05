@@ -25,3 +25,17 @@ p.two#four {
     font-size: 24px;
     font-weight: bold;
 }
+
+button.three {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+button.three.one {
+    background-color: black;
+    color: white;
+}
+
+button.three.two {
+    background-color: yellow;
+}
